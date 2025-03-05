@@ -12,6 +12,7 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 namespace WindowsFormsApp1
 {
    //Relingga Aditya
+   //103022300107
     public partial class Form1: Form
     {
         string angka1;
