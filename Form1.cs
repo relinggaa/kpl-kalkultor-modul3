@@ -11,7 +11,7 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace WindowsFormsApp1
 {
-
+   //Relingga Aditya
     public partial class Form1: Form
     {
         string angka1;
